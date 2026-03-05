@@ -315,3 +315,4 @@ branch1 change 1
 branch1 change 2
 branch1 change 3
 info1
+info2
